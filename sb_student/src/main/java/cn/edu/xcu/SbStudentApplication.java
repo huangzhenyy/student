@@ -1,4 +1,4 @@
-package cn.edu.xcu.example.demo;
+package cn.edu.xcu;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
